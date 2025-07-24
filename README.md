@@ -8,7 +8,7 @@
 
 **AnsCom Terminal** is a sophisticated, real-time stock and crypto analysis tool with a professional, Bloomberg-inspired interface. This major v2.0 update transforms the terminal from a single-asset viewer into a dynamic market analysis powerhouse.
 
-The headline feature is **full market access**. We've replaced the static header with a powerful interactive **Command & Search Bar**, giving you direct access to the entire Nifty 500 Indian stock market, complete with intelligent, live search suggestions.
+The headline feature is **full market access**. I've replaced the static header with a powerful interactive **Command & Search Bar**, giving you direct access to the entire Nifty 500 Indian stock market,live search suggestions.
 
 <br>
 
@@ -24,7 +24,7 @@ The headline feature is **full market access**. We've replaced the static header
 This update is all about speed, access, and intuitive control.
 
 ### #FullMarketAccess
-The terminal now comes pre-loaded with data for the **Nifty 500**. Track any major Indian stock, not just the default.
+The terminal now comes pre-loaded with data for the **Nifty 500** stocks in the Indian Stock Market. Track any major Indian stock, not just the default.
 
 ### #InteractiveCommandBar
 A new dynamic command bar is your gateway to the market. Type your command to instantly switch between different stocks and update your share quantity.
