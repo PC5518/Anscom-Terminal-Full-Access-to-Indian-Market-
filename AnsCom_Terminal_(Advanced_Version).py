@@ -534,7 +534,7 @@ eClerx Services Ltd.,Services,ECLERX,EQ,INE738I01010
 """
     with open(CSV_FILE_PATH, 'w', newline='', encoding='utf-8') as f:
         f.write(csv_content)
-
+# Here i have used to best way possible  for a laptop to run or choose the stocks , i.e either from the csv file , i.e through pandas or through this given data.
 # --- [NEW] Load stock data ---
 try:
     stock_df = pd.read_csv(CSV_FILE_PATH)
@@ -651,7 +651,7 @@ command_box_widget = None
 suggestion_ax = None
 suggestion_buttons_widget = None
 
-# --- [NEW] Command processing and data reset logic ---
+# --- [NEW] Command processing and data reset logic ---  one of the best thing I liked
 def reset_plot_data():
     """Clears all historical data for a new stock."""
     global profits, share_prices, timestamps, percentage_changes, moving_averages, prev_price, initial_price
